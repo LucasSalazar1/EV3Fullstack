@@ -1,0 +1,18 @@
+# Ignorar carpetas pesadas y temporales de desarrollo
+node_modules/
+target/
+.mvn/
+bin/
+*.class
+*.log
+.DS_Store
+.idea/
+.vscode/
+build/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+package-lock.json
