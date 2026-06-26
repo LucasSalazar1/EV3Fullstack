@@ -1,7 +1,6 @@
 # Ignorar carpetas pesadas y temporales de desarrollo
 node_modules/
 target/
-.mvn/
 bin/
 *.class
 *.log
